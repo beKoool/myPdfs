@@ -1,0 +1,135 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
+* {
+    font-family: 'Inter';
+}
+
+body {
+	background: #f4f4f4;
+}
+
+h1 {
+    margin: 30px auto 30px auto;
+    text-align: center;
+}
+
+.card {
+    padding: 1.5rem;
+    height: auto;
+    background-color: #1F2CE0;
+    border-radius: 20px;
+    transition: 0.5s;
+}
+
+.card:hover {
+    transform:scale(1.05);
+    box-shadow: 1px 1px 30px #002fff7e;
+}
+
+.title {
+    color: #f4f4f4;
+    font-weight: 600;
+}
+
+.desc {
+    margin-top: 10px;
+    color: #f4f4f4;
+}
+.cards {
+    max-width: 1024px;
+    margin: auto;
+    padding: 1.5rem;
+    display: grid;
+    gap: 1.5rem;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 3fr));
+}
+a {
+    color: #212121;
+    text-decoration: none;
+}
+
+.prev-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 6px;
+}
+
+.dwn-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 4px;
+}
+
+
+.prev-svg {
+    width: 13px;
+    height: 13px;  
+}
+
+.dwn-svg {
+    width: 13px;
+    height: 13px;
+}
+
+
+button {
+    background-color: #f4f4f4;
+    color: #212121;
+    border-radius: 10px;
+    border: none;
+    padding: 5px 15px;
+    margin-top: 10px;
+    font-size: 15px;
+    margin-right: 5px;  
+    text-align: center;
+    text-decoration: none;
+    transition-duration: 0.4s;
+    border: 1px solid #1F2CE0;
+}
+
+button:hover {
+    background-color: #838BFF;
+    color: #f4f4f4;
+    cursor: pointer;
+    border: 1px solid #1F2CE0;
+}
+
+button:hover path{
+    fill: #f4f4f4 !important;
+    stroke: #f4f4f4;
+}
+
+button:active path{
+    fill: #f4f4f4 !important;
+    stroke: #f4f4f4;
+}
+
+a {
+    color: #f4f4f4;
+    text-decoration: none;
+}
+
+
+button:active {
+    background-color: #3341FF;
+    color: #f4f4f4;
+    border: 1px solid rgba(244, 244, 244, 0.587);
+}
+
+
+
+.btn {
+    display: flex;
+}
+
+
+
+.prev-svg:hover{
+    fill: #f4f4f4;
+}
+
+::selection {
+    background: #c7cdff96;
+}

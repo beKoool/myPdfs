@@ -1,0 +1,914 @@
+[
+  {
+    "title": {
+      "grade": "8",
+      "subject": "Computer",
+      "desc": "1st Term Exam"
+    },
+    "link": "pdfs/8_Computer_1stTermExam.pdf"
+  },
+  {
+    "title": {
+      "grade": "8",
+      "subject": "Computer",
+      "desc": "2nd Term Exam"
+    },
+    "link": "pdfs/8_Computer_2ndTermExam.pdf"
+  },
+  {
+    "title": {
+      "grade": "8",
+      "subject": "Computer",
+      "desc": "Dashain Vac Hw"
+    },
+    "link": "pdfs/8_Computer_DashainVacHw.pdf"
+  },
+  {
+    "title": {
+      "grade": "8",
+      "subject": "Computer",
+      "desc": "Mid Term"
+    },
+    "link": "pdfs/8_Computer_MidTerm.pdf"
+  },
+  {
+    "title": {
+      "grade": "8",
+      "subject": "English",
+      "desc": "1st Term Exam"
+    },
+    "link": "pdfs/8_English_1stTermExam.pdf"
+  },
+  {
+    "title": {
+      "grade": "8",
+      "subject": "English",
+      "desc": "2nd Term Exam"
+    },
+    "link": "pdfs/8_English_2ndTermExam.pdf"
+  },
+  {
+    "title": {
+      "grade": "8",
+      "subject": "English",
+      "desc": "Dashain Vac Hw"
+    },
+    "link": "pdfs/8_English_DashainVacHw.pdf"
+  },
+  {
+    "title": {
+      "grade": "8",
+      "subject": "English",
+      "desc": "Mid Term"
+    },
+    "link": "pdfs/8_English_MidTerm.pdf"
+  },
+  {
+    "title": {
+      "grade": "8",
+      "subject": "English",
+      "desc": "Travelogue"
+    },
+    "link": "pdfs/8_English_Travelogue.pdf"
+  },
+  {
+    "title": {
+      "grade": "8",
+      "subject": "Hpe",
+      "desc": "1st Term Exam"
+    },
+    "link": "pdfs/8_Hpe_1stTermExam.pdf"
+  },
+  {
+    "title": {
+      "grade": "8",
+      "subject": "Hpe",
+      "desc": "2nd Term Exam"
+    },
+    "link": "pdfs/8_Hpe_2ndtermexam.pdf"
+  },
+  {
+    "title": {
+      "grade": "8",
+      "subject": "HPE",
+      "desc": "Dashain Vac Hw"
+    },
+    "link": "pdfs/8_HPE_DashainVacHw.pdf"
+  },
+  {
+    "title": {
+      "grade": "8",
+      "subject": "Hpe",
+      "desc": "Human Body"
+    },
+    "link": "pdfs/8_Hpe_HumanBody.pdf"
+  },
+  {
+    "title": {
+      "grade": "8",
+      "subject": "HPE",
+      "desc": "Mid Term"
+    },
+    "link": "pdfs/8_HPE_MidTerm.pdf"
+  },
+  {
+    "title": {
+      "grade": "8",
+      "subject": "Hpe",
+      "desc": "Nutrition"
+    },
+    "link": "pdfs/8_Hpe_Nutrition.pdf"
+  },
+  {
+    "title": {
+      "grade": "8",
+      "subject": "HPE",
+      "desc": "Project Work"
+    },
+    "link": "pdfs/8_HPE_ProjectWork.pdf"
+  },
+  {
+    "title": {
+      "grade": "8",
+      "subject": "Hpe",
+      "desc": "Project Work 2"
+    },
+    "link": "pdfs/8_Hpe_ProjectWork2.pdf"
+  },
+  {
+    "title": {
+      "grade": "8",
+      "subject": "HPE",
+      "desc": "Test"
+    },
+    "link": "pdfs/8_HPE_Test.pdf"
+  },
+  {
+    "title": {
+      "grade": "8",
+      "subject": "Maths",
+      "desc": "1st Term Exam"
+    },
+    "link": "pdfs/8_Maths_1stTermExam.pdf"
+  },
+  {
+    "title": {
+      "grade": "8",
+      "subject": "Maths",
+      "desc": "2nd Term Exam"
+    },
+    "link": "pdfs/8_Maths_2ndTermExam.pdf"
+  },
+  {
+    "title": {
+      "grade": "8",
+      "subject": "Maths",
+      "desc": "Angles 1"
+    },
+    "link": "pdfs/8_Maths_Angles1.pdf"
+  },
+  {
+    "title": {
+      "grade": "8",
+      "subject": "Maths",
+      "desc": "Angles 2"
+    },
+    "link": "pdfs/8_Maths_Angles2.pdf"
+  },
+  {
+    "title": {
+      "grade": "8",
+      "subject": "Maths",
+      "desc": "Construction"
+    },
+    "link": "pdfs/8_Maths_Construction.pdf"
+  },
+  {
+    "title": {
+      "grade": "8",
+      "subject": "Maths",
+      "desc": "Coordinate Geometry"
+    },
+    "link": "pdfs/8_Maths_CoordinateGeometry.pdf"
+  },
+  {
+    "title": {
+      "grade": "8",
+      "subject": "Maths",
+      "desc": "Equation"
+    },
+    "link": "pdfs/8_Maths_Equation.pdf"
+  },
+  {
+    "title": {
+      "grade": "8",
+      "subject": "Maths",
+      "desc": "Factorization 5"
+    },
+    "link": "pdfs/8_Maths_Factorization5.pdf"
+  },
+  {
+    "title": {
+      "grade": "8",
+      "subject": "Maths",
+      "desc": "Factorization HW"
+    },
+    "link": "pdfs/8_Maths_FactorizationHW.pdf"
+  },
+  {
+    "title": {
+      "grade": "8",
+      "subject": "Maths",
+      "desc": "Factorization HW2"
+    },
+    "link": "pdfs/8_Maths_FactorizationHW2.pdf"
+  },
+  {
+    "title": {
+      "grade": "8",
+      "subject": "Maths",
+      "desc": "Factorization HW6"
+    },
+    "link": "pdfs/8_Maths_FactorizationHW6.pdf"
+  },
+  {
+    "title": {
+      "grade": "8",
+      "subject": "Maths",
+      "desc": "HCF&LCM"
+    },
+    "link": "pdfs/8_Maths_HCF&LCM.pdf"
+  },
+  {
+    "title": {
+      "grade": "8",
+      "subject": "Maths",
+      "desc": "Inequalities"
+    },
+    "link": "pdfs/8_Maths_Inequalities.pdf"
+  },
+  {
+    "title": {
+      "grade": "8",
+      "subject": "Maths",
+      "desc": "Mid Term"
+    },
+    "link": "pdfs/8_Maths_MidTerm.pdf"
+  },
+  {
+    "title": {
+      "grade": "8",
+      "subject": "Maths",
+      "desc": "Project Work"
+    },
+    "link": "pdfs/8_Maths_ProjectWork.pdf"
+  },
+  {
+    "title": {
+      "grade": "8",
+      "subject": "Maths",
+      "desc": "Quadratic Equation"
+    },
+    "link": "pdfs/8_Maths_QuadraticEquation.pdf"
+  },
+  {
+    "title": {
+      "grade": "8",
+      "subject": "Maths",
+      "desc": "Quadrilaterals"
+    },
+    "link": "pdfs/8_Maths_Quadrilaterals.pdf"
+  },
+  {
+    "title": {
+      "grade": "8",
+      "subject": "Maths",
+      "desc": "Simultaneous Equations"
+    },
+    "link": "pdfs/8_Maths_SimultaneousEquations.pdf"
+  },
+  {
+    "title": {
+      "grade": "8",
+      "subject": "Maths",
+      "desc": "Solid Shapes"
+    },
+    "link": "pdfs/8_Maths_SolidShapes.pdf"
+  },
+  {
+    "title": {
+      "grade": "8",
+      "subject": "Maths",
+      "desc": "Statistics 1"
+    },
+    "link": "pdfs/8_Maths_Statistics1.pdf"
+  },
+  {
+    "title": {
+      "grade": "8",
+      "subject": "Maths",
+      "desc": "Statistics 2"
+    },
+    "link": "pdfs/8_Maths_Statistics2.pdf"
+  },
+  {
+    "title": {
+      "grade": "8",
+      "subject": "Maths",
+      "desc": "Triangles"
+    },
+    "link": "pdfs/8_Maths_Triangles.pdf"
+  },
+  {
+    "title": {
+      "grade": "8",
+      "subject": "Maths",
+      "desc": "Unitary Method"
+    },
+    "link": "pdfs/8_Maths_UnitaryMethod.pdf"
+  },
+  {
+    "title": {
+      "grade": "8",
+      "subject": "MoralEdu",
+      "desc": "2nd Term Exam"
+    },
+    "link": "pdfs/8_MoralEdu_2ndTermExam.pdf"
+  },
+  {
+    "title": {
+      "grade": "8",
+      "subject": "MoralEdu",
+      "desc": "Aaitaman"
+    },
+    "link": "pdfs/8_MoralEdu_Aaitaman.pdf"
+  },
+  {
+    "title": {
+      "grade": "8",
+      "subject": "MoralEdu",
+      "desc": "Good Example"
+    },
+    "link": "pdfs/8_MoralEdu_GoodExample.pdf"
+  },
+  {
+    "title": {
+      "grade": "8",
+      "subject": "Nepali",
+      "desc": "1st Term Exam"
+    },
+    "link": "pdfs/8_Nepali_1stTermExam.pdf"
+  },
+  {
+    "title": {
+      "grade": "8",
+      "subject": "Nepali",
+      "desc": "2nd Term Exam"
+    },
+    "link": "pdfs/8_Nepali_2ndTermExam.pdf"
+  },
+  {
+    "title": {
+      "grade": "8",
+      "subject": "Nepali",
+      "desc": "Bhagya"
+    },
+    "link": "pdfs/8_Nepali_Bhagya.pdf"
+  },
+  {
+    "title": {
+      "grade": "8",
+      "subject": "Nepali",
+      "desc": "bismayabodhak"
+    },
+    "link": "pdfs/8_Nepali_bismayabodhak.pdf"
+  },
+  {
+    "title": {
+      "grade": "8",
+      "subject": "Nepali",
+      "desc": "Dev Kumari Thapa"
+    },
+    "link": "pdfs/8_Nepali_DevKumariThapa.pdf"
+  },
+  {
+    "title": {
+      "grade": "8",
+      "subject": "Nepali",
+      "desc": "Mid Term"
+    },
+    "link": "pdfs/8_Nepali_MidTerm.pdf"
+  },
+  {
+    "title": {
+      "grade": "8",
+      "subject": "Nepali",
+      "desc": "Project Work"
+    },
+    "link": "pdfs/8_Nepali_ProjectWork.pdf"
+  },
+  {
+    "title": {
+      "grade": "8",
+      "subject": "Nepali",
+      "desc": "Test Padwarga"
+    },
+    "link": "pdfs/8_Nepali_TestPadwarga.pdf"
+  },
+  {
+    "title": {
+      "grade": "8",
+      "subject": "OBTE",
+      "desc": "1st Term Exam"
+    },
+    "link": "pdfs/8_OBTE_1stTermExam.pdf"
+  },
+  {
+    "title": {
+      "grade": "8",
+      "subject": "OBTE",
+      "desc": "2nd Term Exam"
+    },
+    "link": "pdfs/8_OBTE_2ndTermExam.pdf"
+  },
+  {
+    "title": {
+      "grade": "8",
+      "subject": "OBTE",
+      "desc": "Mid Term"
+    },
+    "link": "pdfs/8_OBTE_MidTerm.pdf"
+  },
+  {
+    "title": {
+      "grade": "8",
+      "subject": "OptMaths",
+      "desc": "1st Term Exam"
+    },
+    "link": "pdfs/8_OptMaths_1stTermExam.pdf"
+  },
+  {
+    "title": {
+      "grade": "8",
+      "subject": "OptMaths",
+      "desc": "2nd Term Exam"
+    },
+    "link": "pdfs/8_OptMaths_2ndTermExam.pdf"
+  },
+  {
+    "title": {
+      "grade": "8",
+      "subject": "OptMaths",
+      "desc": "Coordinate HW"
+    },
+    "link": "pdfs/8_OptMaths_CoordinateHW.pdf"
+  },
+  {
+    "title": {
+      "grade": "8",
+      "subject": "OptMaths",
+      "desc": "Coordinate HW2"
+    },
+    "link": "pdfs/8_OptMaths_CoordinateHW2.pdf"
+  },
+  {
+    "title": {
+      "grade": "8",
+      "subject": "OptMaths",
+      "desc": "Degree Grade Radian 1"
+    },
+    "link": "pdfs/8_OptMaths_DegreeGradeRadian1.pdf"
+  },
+  {
+    "title": {
+      "grade": "8",
+      "subject": "OptMaths",
+      "desc": "Degree Grade Radian 2"
+    },
+    "link": "pdfs/8_OptMaths_DegreeGradeRadian2.pdf"
+  },
+  {
+    "title": {
+      "grade": "8",
+      "subject": "OptMaths",
+      "desc": "Matrices"
+    },
+    "link": "pdfs/8_OptMaths_Matrices.pdf"
+  },
+  {
+    "title": {
+      "grade": "8",
+      "subject": "OptMaths",
+      "desc": "Mid Term"
+    },
+    "link": "pdfs/8_OptMaths_MidTerm.pdf"
+  },
+  {
+    "title": {
+      "grade": "8",
+      "subject": "OptMaths",
+      "desc": "Personal Health"
+    },
+    "link": "pdfs/8_OptMaths_PersonalHealth.pdf"
+  },
+  {
+    "title": {
+      "grade": "8",
+      "subject": "OptMaths",
+      "desc": "Project Work"
+    },
+    "link": "pdfs/8_OptMaths_ProjectWork.pdf"
+  },
+  {
+    "title": {
+      "grade": "8",
+      "subject": "OptMaths",
+      "desc": "Project Work Mid Term"
+    },
+    "link": "pdfs/8_OptMaths_ProjectWorkMidTerm.pdf"
+  },
+  {
+    "title": {
+      "grade": "8",
+      "subject": "OptMaths",
+      "desc": "Trigonometry 1"
+    },
+    "link": "pdfs/8_OptMaths_Trigonometry1.pdf"
+  },
+  {
+    "title": {
+      "grade": "8",
+      "subject": "OptMaths",
+      "desc": "Trigonometry 2"
+    },
+    "link": "pdfs/8_OptMaths_Trigonometry2.pdf"
+  },
+  {
+    "title": {
+      "grade": "8",
+      "subject": "OptMaths",
+      "desc": "Trigonometry 3"
+    },
+    "link": "pdfs/8_OptMaths_Trigonometry3.pdf"
+  },
+  {
+    "title": {
+      "grade": "8",
+      "subject": "OptMaths",
+      "desc": "Trigonometry 4"
+    },
+    "link": "pdfs/8_OptMaths_Trigonometry4.pdf"
+  },
+  {
+    "title": {
+      "grade": "8",
+      "subject": "OptMaths",
+      "desc": "Trigonometry 5"
+    },
+    "link": "pdfs/8_OptMaths_Trigonometry5.pdf"
+  },
+  {
+    "title": {
+      "grade": "8",
+      "subject": "OptMaths",
+      "desc": "Trigonometry 6"
+    },
+    "link": "pdfs/8_OptMaths_Trigonometry6.pdf"
+  },
+  {
+    "title": {
+      "grade": "8",
+      "subject": "Science",
+      "desc": "1st Term Exam"
+    },
+    "link": "pdfs/8_Science_1stTermExam.pdf"
+  },
+  {
+    "title": {
+      "grade": "8",
+      "subject": "Science",
+      "desc": "2nd Term Exam"
+    },
+    "link": "pdfs/8_Science_2ndTermExam.pdf"
+  },
+  {
+    "title": {
+      "grade": "8",
+      "subject": "Science",
+      "desc": "Acid Base Salt"
+    },
+    "link": "pdfs/8_Science_AcidBaseSalt.pdf"
+  },
+  {
+    "title": {
+      "grade": "8",
+      "subject": "Science",
+      "desc": "Cells And Tissues"
+    },
+    "link": "pdfs/8_Science_CellsAndTissues.pdf"
+  },
+  {
+    "title": {
+      "grade": "8",
+      "subject": "Science",
+      "desc": "Environment And Balance"
+    },
+    "link": "pdfs/8_Science_EnvironmentAndBalance.pdf"
+  },
+  {
+    "title": {
+      "grade": "8",
+      "subject": "Science",
+      "desc": "Glandular System"
+    },
+    "link": "pdfs/8_Science_GlandularSystem.pdf"
+  },
+  {
+    "title": {
+      "grade": "8",
+      "subject": "Science",
+      "desc": "Heart Project Work"
+    },
+    "link": "pdfs/8_Science_HeartProjectWork.pdf"
+  },
+  {
+    "title": {
+      "grade": "8",
+      "subject": "Science",
+      "desc": "Heat HW1"
+    },
+    "link": "pdfs/8_Science_HeatHW1.pdf"
+  },
+  {
+    "title": {
+      "grade": "8",
+      "subject": "Science",
+      "desc": "Heat HW2"
+    },
+    "link": "pdfs/8_Science_HeatHW2.pdf"
+  },
+  {
+    "title": {
+      "grade": "8",
+      "subject": "Science",
+      "desc": "Heat HW3"
+    },
+    "link": "pdfs/8_Science_HeatHW3.pdf"
+  },
+  {
+    "title": {
+      "grade": "8",
+      "subject": "Science",
+      "desc": "Life Processes"
+    },
+    "link": "pdfs/8_Science_LifeProcesses.pdf"
+  },
+  {
+    "title": {
+      "grade": "8",
+      "subject": "Science",
+      "desc": "Life Processes HW1"
+    },
+    "link": "pdfs/8_Science_LifeProcessesHW1.pdf"
+  },
+  {
+    "title": {
+      "grade": "8",
+      "subject": "Science",
+      "desc": "Light HW1"
+    },
+    "link": "pdfs/8_Science_LightHW1.pdf"
+  },
+  {
+    "title": {
+      "grade": "8",
+      "subject": "Science",
+      "desc": "Light HW2"
+    },
+    "link": "pdfs/8_Science_LightHW2.pdf"
+  },
+  {
+    "title": {
+      "grade": "8",
+      "subject": "Science",
+      "desc": "Magnetism"
+    },
+    "link": "pdfs/8_Science_Magnetism.pdf"
+  },
+  {
+    "title": {
+      "grade": "8",
+      "subject": "Science",
+      "desc": "Magnetism 2"
+    },
+    "link": "pdfs/8_Science_Magnetism2.pdf"
+  },
+  {
+    "title": {
+      "grade": "8",
+      "subject": "Science",
+      "desc": "Metals And Non Metals"
+    },
+    "link": "pdfs/8_Science_MetalsAndNonMetals.pdf"
+  },
+  {
+    "title": {
+      "grade": "8",
+      "subject": "Science",
+      "desc": "Mid Term"
+    },
+    "link": "pdfs/8_Science_MidTerm.pdf"
+  },
+  {
+    "title": {
+      "grade": "8",
+      "subject": "Science",
+      "desc": "Mixture HW"
+    },
+    "link": "pdfs/8_Science_MixtureHW.pdf"
+  },
+  {
+    "title": {
+      "grade": "8",
+      "subject": "Science",
+      "desc": "Pressure"
+    },
+    "link": "pdfs/8_Science_Pressure.pdf"
+  },
+  {
+    "title": {
+      "grade": "8",
+      "subject": "Science",
+      "desc": "Project Work"
+    },
+    "link": "pdfs/8_Science_ProjectWork.pdf"
+  },
+  {
+    "title": {
+      "grade": "8",
+      "subject": "Science",
+      "desc": "Project Work Mid Term"
+    },
+    "link": "pdfs/8_Science_ProjectWorkMidTerm.pdf"
+  },
+  {
+    "title": {
+      "grade": "8",
+      "subject": "Science",
+      "desc": "Some Useful Chemicals"
+    },
+    "link": "pdfs/8_Science_SomeUsefulChemicals.pdf"
+  },
+  {
+    "title": {
+      "grade": "8",
+      "subject": "Science",
+      "desc": "Weather And Climate"
+    },
+    "link": "pdfs/8_Science_WeatherAndClimate.pdf"
+  },
+  {
+    "title": {
+      "grade": "8",
+      "subject": "Science",
+      "desc": "Work Energy And Power 1"
+    },
+    "link": "pdfs/8_Science_WorkEnergyAndPower1.pdf"
+  },
+  {
+    "title": {
+      "grade": "8",
+      "subject": "Science",
+      "desc": "Work Energy And Power 2"
+    },
+    "link": "pdfs/8_Science_WorkEnergyAndPower2.pdf"
+  },
+  {
+    "title": {
+      "grade": "8",
+      "subject": "Science",
+      "desc": "Work Energy And Power 3"
+    },
+    "link": "pdfs/8_Science_WorkEnergyAndPower3.pdf"
+  },
+  {
+    "title": {
+      "grade": "8",
+      "subject": "Science",
+      "desc": "Work Energy And Power Note"
+    },
+    "link": "pdfs/8_Science_WorkEnergyAndPowerNote.pdf"
+  },
+  {
+    "title": {
+      "grade": "8",
+      "subject": "Sciene",
+      "desc": "Earth And Space"
+    },
+    "link": "pdfs/8_Sciene_EarthAndSpace.pdf"
+  },
+  {
+    "title": {
+      "grade": "8",
+      "subject": "Social",
+      "desc": "1st Term Exam"
+    },
+    "link": "pdfs/8_Social_1stTermExam.pdf"
+  },
+  {
+    "title": {
+      "grade": "8",
+      "subject": "Social",
+      "desc": "2nd Term Exam"
+    },
+    "link": "pdfs/8_Social_2ndTermExam.pdf"
+  },
+  {
+    "title": {
+      "grade": "8",
+      "subject": "Social",
+      "desc": "Dev Projects Nepal"
+    },
+    "link": "pdfs/8_Social_DevProjectsNepal.pdf"
+  },
+  {
+    "title": {
+      "grade": "8",
+      "subject": "Social",
+      "desc": "Drinking Water"
+    },
+    "link": "pdfs/8_Social_DrinkingWater.pdf"
+  },
+  {
+    "title": {
+      "grade": "8",
+      "subject": "Social",
+      "desc": "Energy"
+    },
+    "link": "pdfs/8_Social_Energy.pdf"
+  },
+  {
+    "title": {
+      "grade": "8",
+      "subject": "Social",
+      "desc": "Human Resources"
+    },
+    "link": "pdfs/8_Social_HumanResources.pdf"
+  },
+  {
+    "title": {
+      "grade": "8",
+      "subject": "Social",
+      "desc": "Human Rights"
+    },
+    "link": "pdfs/8_Social_HumanRights.pdf"
+  },
+  {
+    "title": {
+      "grade": "8",
+      "subject": "Social",
+      "desc": "International Organizations"
+    },
+    "link": "pdfs/8_Social_InternationalOrganizations.pdf"
+  },
+  {
+    "title": {
+      "grade": "8",
+      "subject": "Social",
+      "desc": "International Personalities"
+    },
+    "link": "pdfs/8_Social_InternationalPersonalities.pdf"
+  },
+  {
+    "title": {
+      "grade": "8",
+      "subject": "Social",
+      "desc": "Project Work"
+    },
+    "link": "pdfs/8_Social_ProjectWork.pdf"
+  },
+  {
+    "title": {
+      "grade": "8",
+      "subject": "Social",
+      "desc": "Sustainable Development"
+    },
+    "link": "pdfs/8_Social_SustainableDevelopment.pdf"
+  },
+  {
+    "title": {
+      "grade": "8",
+      "subject": "Social",
+      "desc": "Test"
+    },
+    "link": "pdfs/8_Social_Test.pdf"
+  },
+  {
+    "title": {
+      "grade": "9",
+      "subject": "Comptuer",
+      "desc": "DBMS Notes"
+    },
+    "link": "pdfs/9_Comptuer_DbmsNotes.pdf"
+  }
+]
